@@ -15,7 +15,7 @@ if [ ! -d "hosts/$HOST" ]; then
     exit 1
 fi
 mkdir -p ~/.config/niri/cfg
-for f in display autostart; do
+for f in display autostart cursor; do
     ln -sfn "$PWD/hosts/$HOST/$f.kdl" ~/.config/niri/cfg/$f.kdl
 done
 
