@@ -6,5 +6,6 @@
 output "eDP-1" {
     // mode "WIDTHxHEIGHT@REFRESH" // omit to use the panel's preferred mode
     scale 1 // No scaling (use 2 for HiDPI)
+    position x=0 y=0
     //variable-refresh-rate
 }
