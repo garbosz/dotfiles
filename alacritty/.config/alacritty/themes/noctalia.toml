@@ -1,68 +1,68 @@
 [colors.primary]
-background = '#262218'
-foreground = '#f3f3f2'
+background = '#1d2d10'
+foreground = '#f2f3f2'
 
 [colors.cursor]
-text = '#262218'
-cursor = '#f3f3f2'
+text = '#1d2d10'
+cursor = '#f2f3f2'
 
 [colors.vi_mode_cursor]
-text = '#262218'
-cursor = '#e4c367'
+text = '#1d2d10'
+cursor = '#a0e467'
 
 [colors.search.matches]
-foreground = '#322d1f'
-background = '#81cc66'
+foreground = '#273c15'
+background = '#66cc9e'
 
 [colors.search.focused_match]
-foreground = '#322d1f'
-background = '#e4c367'
+foreground = '#273c15'
+background = '#a0e467'
 
 [colors.footer_bar]
-foreground = '#322d1f'
-background = '#e8e6e3'
+foreground = '#273c15'
+background = '#e5e8e3'
 
 [colors.hints.start]
-foreground = '#322d1f'
-background = '#bbd65c'
+foreground = '#273c15'
+background = '#5cd65c'
 
 [colors.hints.end]
-foreground = '#322d1f'
-background = '#bbd65c'
+foreground = '#273c15'
+background = '#5cd65c'
 
 [colors.selection]
-text = '#b6b4af'
-background = '#322d1f'
+text = '#b2b6af'
+background = '#273c15'
 
 
 [colors.normal]
-black   = '#322d1f'
-red     = '#fd4663'
-green   = '#e4c367'
-yellow  = '#bbd65c'
-blue    = '#81cc66'
-magenta = '#ecd493'
-cyan    = '#d6e996'
-white   = '#f3f3f2'
+black   = '#273c15'
+red     = '#ff4c66'
+green   = '#a0e467'
+yellow  = '#5cd65c'
+blue    = '#66cc9e'
+magenta = '#bbec93'
+cyan    = '#96e996'
+white   = '#f2f3f2'
 
 
 [colors.bright]
-black   = '#706c60'
-red     = '#fd4663'
-green   = '#e4c367'
-yellow  = '#bbd65c'
-blue    = '#81cc66'
-magenta = '#ecd493'
-cyan    = '#d6e996'
-white   = '#f3f3f2'
+black   = '#6b7464'
+red     = '#ff4c66'
+green   = '#a0e467'
+yellow  = '#5cd65c'
+blue    = '#66cc9e'
+magenta = '#bbec93'
+cyan    = '#96e996'
+white   = '#f2f3f2'
 
 
 [colors.dim]
-black   = '#322d1f'
-red     = '#fd4663'
-green   = '#e4c367'
-yellow  = '#bbd65c'
-blue    = '#81cc66'
-magenta = '#ecd493'
-cyan    = '#d6e996'
-white   = '#f3f3f2'
+black   = '#273c15'
+red     = '#ff4c66'
+green   = '#a0e467'
+yellow  = '#5cd65c'
+blue    = '#66cc9e'
+magenta = '#bbec93'
+cyan    = '#96e996'
+white   = '#f2f3f2'
