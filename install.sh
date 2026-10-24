@@ -3,7 +3,7 @@ set -euo pipefail
 
 cd "$(dirname "$0")"
 HOST=$(hostname)
-PACKAGES=(niri noctalia kitty fish btop lazygit alacritty)
+PACKAGES=(niri noctalia kitty fish btop lazygit)
 
 # make sure the nvim submodule is actually downloaded
 git submodule update --init
