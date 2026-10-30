@@ -10,7 +10,7 @@ binds {
 
     // ─── Applications ───
     Mod+Return                          hotkey-overlay-title="Open Terminal: kitty" { spawn "kitty"; }
-    Mod+B                               hotkey-overlay-title="Open Browser: Chrome" { spawn "google-chrome-stable"; }
+    Mod+B                               hotkey-overlay-title="Open Browser: Zen" { spawn "zen"; }
     Mod+ALT+B                           hotkey-overlay-title="Open Alt Browser: Firefox" { spawn "firefox";}
 
     // --- Noctalia ---

@@ -9,3 +9,7 @@ output "eDP-1" {
     position x=0 y=0
     //variable-refresh-rate
 }
+
+output "DP-8" {
+  scale 0.8
+}
